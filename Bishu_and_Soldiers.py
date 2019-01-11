@@ -5,7 +5,7 @@ soldiers = []
 for k in range(n):
     soldiers.append(int(input()))
 r = int(input())
-killed = 0
+killed=0
 dead = 0
 for i in range(r):
     killed = 0

@@ -7,7 +7,7 @@ while T>0:
     l = []
     l = list(map(int, input().split()))
     l.sort()
-    datasize =len(l)
+    datasize = len(l)
     flag = False
     count = 0
     if N == datasize:

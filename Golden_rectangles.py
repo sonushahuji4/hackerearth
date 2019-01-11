@@ -8,4 +8,5 @@ while N>0:
     if x<=s and s<=y:
         flag+=1
     N-=1
+
 print(flag)

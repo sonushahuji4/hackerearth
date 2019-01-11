@@ -7,7 +7,7 @@ while n > 0:
 
     if rate == 0:
 
-        if l != []:
+        if l!=[]:
             l.pop()
     else:
         l.append(rate)

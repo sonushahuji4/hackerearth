@@ -6,7 +6,6 @@ while n > 0:
     d = input()
     data.append(d)
     n -= 1
-# print(data,"\n")
 w19 = 0
 w21 = 0
 for i in data:

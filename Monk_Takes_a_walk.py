@@ -1,6 +1,5 @@
 #problem link
 #https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/monk-takes-a-walk/
-
 t = int(input())
 flag = 0
 alpha = []

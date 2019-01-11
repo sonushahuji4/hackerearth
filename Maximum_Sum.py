@@ -1,5 +1,6 @@
 #problem link
 #https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/maximum-sum-4-f8d12458/
+
 n=int(input())
 data=list(map(int,input().split()))
 data.sort(reverse=True)

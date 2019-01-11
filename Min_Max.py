@@ -5,7 +5,6 @@ data=list(map(int,input().split()))
 j=0
 sum=0
 l=[]
-
 while n>0:
     for i in range(0, len(data)):
         if i != j:

@@ -13,7 +13,6 @@ for i in range(1, max(c) - max(a) + 1):
             break
     if flag == False:
         b.append(i)
-
 bsort = sorted(b)
 for e in bsort:
     print(e, end=" ")

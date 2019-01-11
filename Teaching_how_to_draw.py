@@ -1,3 +1,4 @@
+
 T = int(input())
 for i in range(T):
     S = int(input())

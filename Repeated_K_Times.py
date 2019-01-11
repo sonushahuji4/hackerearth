@@ -1,5 +1,6 @@
 #problem link
 #https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/repeated-k-times/description/
+
 n=int(input())
 data=list(map(int,input().split()))
 k=int(input())

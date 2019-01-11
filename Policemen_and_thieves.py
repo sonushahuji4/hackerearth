@@ -14,8 +14,6 @@ def policeThief(arr, n, k):
             thi.append(i)
         i += 1
 
-    # track lowest current indices of
-    # thief: thi[l], police: pol[r]
     while l < len(thi) and r < len(pol):
 
         # can be caught

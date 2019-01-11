@@ -1,5 +1,6 @@
 #problem link
 #https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/special-shop-69904c91/
+
 T=int(input())
 l=[]
 while T>0:
