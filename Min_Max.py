@@ -8,9 +8,7 @@ l=[]
 
 while n>0:
     for i in range(0, len(data)):
-        if i == j:
-            pass
-        else:
+        if i != j:
             sum = sum + int(data[i])
     l.append(sum)
     j = j + 1
