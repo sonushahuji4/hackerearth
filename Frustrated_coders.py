@@ -1,3 +1,28 @@
+# Python code to find frustrated coders
+
+
+input()
+num_list = input()
+num_list = list(map(int,num_list.split(' ')))
+
+num_list.sort()
+
+i = 0
+
+
+
+for num in num_list:
+
+    if num > num_list[i] :
+        i += 1
+
+num_list = num_list[i:]
+
+
+
+
+print(sum(num_list))
+
 # N=int(input())
 # coders = list(map(int, input().split()))
 # coders.sort()
